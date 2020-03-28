@@ -1,0 +1,6 @@
+echo "# k8s" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/duanmeng8272/k8s.git
+git push -u origin master
